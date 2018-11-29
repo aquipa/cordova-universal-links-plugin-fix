@@ -3,7 +3,7 @@
     "name": "Nikolay Demyankov for Nordnet Bank AB"
   },
   "bugs": {
-    "url": "https://github.com/StartPolymer/cordova-universal-links-plugin-fix/issues"
+    "url": "https://github.com/streaka/cordova-universal-links-plugin-deluxe/issues"
   },
   "bundleDependencies": false,
   "cordova": {
@@ -32,7 +32,7 @@
       "version": ">=4"
     }
   ],
-  "homepage": "https://github.com/StartPolymer/cordova-universal-links-plugin-fix#readme",
+  "homepage": "https://github.com/streaka/cordova-universal-links-plugin-deluxe#readme",
   "keywords": [
     "cordova",
     "links",
@@ -49,7 +49,7 @@
   "name": "cordova-universal-links-plugin-deluxe",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/streaka/cordova-universal-links-plugin-fix.git"
+    "url": "git+https://github.com/streaka/cordova-universal-links-plugin-deluxe.git"
   },
-  "version": "1.2.2"
+  "version": "1.2.4"
 }

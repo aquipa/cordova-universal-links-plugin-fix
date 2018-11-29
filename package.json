@@ -46,10 +46,10 @@
     "android"
   ],
   "license": "MIT",
-  "name": "cordova-universal-links-plugin-fix",
+  "name": "cordova-universal-links-plugin-deluxe",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/StartPolymer/cordova-universal-links-plugin-fix.git"
+    "url": "git+https://github.com/streaka/cordova-universal-links-plugin-fix.git"
   },
   "version": "1.2.2"
 }
